@@ -1,6 +1,5 @@
 from vpython import *
 #Web VPython 3.2
-from vpython import *
 
 # Set up the scene
 scene = canvas(background = color.white)
